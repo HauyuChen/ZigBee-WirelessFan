@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>791</ColumnWidth1>
+        <ColumnWidth2>211</ColumnWidth2>
+        <ColumnWidth3>52</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>240</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-27943-25988</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-27420-25998</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5923-25991</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SampleApp_Fan</ExpandedNode><ExpandedNode>SampleApp_Fan/App</ExpandedNode><ExpandedNode>SampleApp_Fan/Tools</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16672-25994</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01a7f2d8><key>iaridepm.enu1</key></Toolbar-01a7f2d8></Sizes></Row0><Row1><Sizes><Toolbar-0ac22cb8><key>debuggergui.enu1</key></Toolbar-0ac22cb8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>735</Bottom><Right>314</Right><x>-2</x><y>-2</y><xscreen>-2392281</xscreen><yscreen>-1790987</yscreen><sizeHorzCX>-2147469478</sizeHorzCX><sizeHorzCY>-2147466426</sizeHorzCY><sizeVertCX>283662</sizeVertCX><sizeVertCY>883693</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>735</Bottom><Right>31</Right><x>-2</x><y>-2</y><xscreen>-2392281</xscreen><yscreen>-1790987</yscreen><sizeHorzCX>-2147469478</sizeHorzCX><sizeHorzCY>-2147466426</sizeHorzCY><sizeVertCX>-2147469478</sizeVertCX><sizeVertCY>883693</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>30</Bottom><Right>1116</Right><x>-2</x><y>-2</y><xscreen>1118</xscreen><yscreen>-1790987</yscreen><sizeHorzCX>1003591</sizeHorzCX><sizeHorzCY>-2147466426</sizeHorzCY><sizeVertCX>-2147469478</sizeVertCX><sizeVertCY>-2147466426</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
