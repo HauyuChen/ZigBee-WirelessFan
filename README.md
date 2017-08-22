@@ -2,10 +2,6 @@
 
 无线风扇是本人在大二上学期在实验室期间实现的项目，实现了电风扇的无线控制。这也是我学习无线传感器网络实现的第一个项目，看着实验室的电风扇真的被代码操控着，感觉真的很奇妙。
 
-无线风扇项目完整源码：[https://github.com/HauyuChen/ZigBee-WirelessFan](https://github.com/HauyuChen/ZigBee-WirelessFan)
-
-如果对您有帮助，欢迎您在GitHub上给我 Follow 或 Stars ：）
-
 博客原文链接：[http://chenhy.com/post/zb-zigbee-wirelessfan/](http://chenhy.com/post/zb-zigbee-wirelessfan/)
 
 <br/>
@@ -518,7 +514,5 @@ void SampleApp_MessageMSGCB( afIncomingMSGPacket_t *pkt )
 
 # 3 总结 #
 无线风扇这个项目其实不难，只需有 ZigBee 组网、IO 口控制和传感器数据采集的知识就可以实现这样的功能。刚学习 ZigBee 时可以试试实现这样的小功能，比较容易找到学习的乐趣。
-
-本文讲了整个小项目的大体思路和部分实现细节，具体的实现方式可参考本文开头给出的项目源代码。
 
 <br/>
