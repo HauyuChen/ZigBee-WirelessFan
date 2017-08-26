@@ -512,7 +512,7 @@ void SampleApp_MessageMSGCB( afIncomingMSGPacket_t *pkt )
 
 <br/>
 
-# 3 总结 #
+# 4 总结 #
 无线风扇这个项目其实不难，只需有 ZigBee 组网、IO 口控制和传感器数据采集的知识就可以实现这样的功能。刚学习 ZigBee 时可以试试实现这样的小功能，比较容易找到学习的乐趣。
 
 <br/>
